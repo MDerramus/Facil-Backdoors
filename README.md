@@ -1,2 +1,3 @@
 # Facil-Backdoors
-Este es un scripts echo en bash Para Kali Linux sirve para la automatizacion de Payloads
+Este es un scripts hecho en bash totalmente en Español Para Kali Linux sirve para la automatizacion de Payloads
+Nivel Principiantes
